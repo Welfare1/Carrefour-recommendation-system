@@ -1,10 +1,10 @@
-# RAPPORT DEFI IA 2024-2025
+# CARREFOUR DEFI IA 2024-2025
 
 ![Slide 1](Assets/image-carrefour-challenge.png)
 
 **[UFHB]-@WELFARE**
 
-**MARIAM DJIRE, ANGELA KONATE, FREDERIC AKADJE**
+**MARIAM DJIRE, ANGELA KONATE, FREDERIC AKADJE**<br>
 **Rang compétition: 2è/ 43 équipes**
 
 ---
